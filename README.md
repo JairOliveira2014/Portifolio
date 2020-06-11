@@ -7,7 +7,7 @@
 # Jair Oliveira
 <sub>*Electrical Engineer and Data Science Student*</sub>
 
-Ao logo dos últimos anos desenvolvi minhas competências na área de engenharia elétrica. trabalhei na gestão de equipes multidisciplinares, na qual suportava a área de engenharia de manutenção elétrica com aplicações de técnicas de manutenção preventivas, preditivas com o foco em confiabilidade. Depois de trabalhar nesta área desenvolvi pessamento crítico e habilidades que me ajudaram na resolução de problemas.
+Ao logo dos últimos anos desenvolvi minhas competências na área de engenharia elétrica. trabalhei na gestão de equipes multidisciplinares, na qual suportava a área de engenharia de manutenção elétrica com aplicações de técnicas de manutenção preventivas, preditivas com o foco em confiabilidade. Depois de trabalhar nesta área desenvolvi pensamento crítico e habilidades que me ajudaram na resolução de problemas.
 
 Hoje dedico-me ao estudo e aprendizado de Data Science, a fim de contribuir cada vez mais com meu papelm em resolução de problemas nas empresas.
 
