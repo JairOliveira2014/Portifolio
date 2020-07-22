@@ -17,13 +17,12 @@ Minha formação inclui a Gradução em Engenharia Elétrica e Esp. em Engenhari
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jairjloliveira/)
-* [Medium]
+* [Medium](https://medium.com/@jair.oliveira1204)
 
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** 
-* **Como Implementar Regressão Linear com Python:** 
+* **Iniciando em *Machine Learning* com a Competição do Titanic:** [Notebook do Desafio](https://github.com/JairOliveira2014/My_data_science/tree/master/Titanic)
 
 ---
 
